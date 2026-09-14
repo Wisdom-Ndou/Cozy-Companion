@@ -1,0 +1,6 @@
+{
+  "name": "Cozy Companion",
+  "description": "A warm, gentle addiction and habit support companion with a digital friend, private journaling, grounding tools, and customizable cozy home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

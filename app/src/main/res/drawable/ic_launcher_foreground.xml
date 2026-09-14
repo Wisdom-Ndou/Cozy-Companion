@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Left ear -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M38,36 C34,31 31,37 34,44 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M37,37 C35,34 33,37 35,42 Z" />
+
+    <!-- Right ear -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M70,36 C74,31 77,37 74,44 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M71,37 C73,34 75,37 73,42 Z" />
+
+    <!-- Head and body -->
+    <path
+        android:fillColor="#F8ECE1"
+        android:pathData="M54,34 C41,34 34,44 34,57 C34,69 41,74 54,74 C67,74 74,69 74,57 C74,44 67,34 54,34 Z" />
+
+    <!-- Soft blush cheeks -->
+    <path
+        android:fillColor="#F4A261"
+        android:fillAlpha="0.6"
+        android:pathData="M40,58 A4,3 0 1,0 48,58 A4,3 0 1,0 40,58 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:fillAlpha="0.6"
+        android:pathData="M60,58 A4,3 0 1,0 68,58 A4,3 0 1,0 60,58 Z" />
+
+    <!-- Happy sleeping closed eyes -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3D405B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M41,53 Q44,57 47,53" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3D405B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M61,53 Q64,57 67,53" />
+
+    <!-- Cute button nose & smile -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M52.5,56 C52.5,55 55.5,55 55.5,56 C55.5,57.5 52.5,57.5 52.5,56 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3D405B"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,57 L54,59.5 Q51.5,62 49.5,60" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3D405B"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,59.5 Q56.5,62 58.5,60" />
+
+    <!-- Cozy knitted blanket folded around companion -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M31,68 C31,65 37,64 54,64 C71,64 77,65 77,68 C77,75 70,80 54,80 C38,80 31,75 31,68 Z" />
+    <path
+        android:fillColor="#F4A261"
+        android:pathData="M34,68 C34,66 39,65 54,65 C69,65 74,66 74,68 C74,70 70,72 54,72 C38,72 34,70 34,68 Z" />
+
+    <!-- Little floating heart/star of comfort -->
+    <path
+        android:fillColor="#E07A5F"
+        android:pathData="M54,23 C52,20 48,22 49.5,25 C51,28 54,30 54,30 C54,30 57,28 58.5,25 C60,22 56,20 54,23 Z" />
+</vector>
